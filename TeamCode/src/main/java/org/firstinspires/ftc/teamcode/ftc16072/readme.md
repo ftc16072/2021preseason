@@ -1,0 +1,4 @@
+# Preseason training
+
+# GIT usage
+The following members have successfully added their name:
