@@ -6,3 +6,4 @@ The following members have successfully added their name:
 * Philip Smith
 * Preeti Thirukonda
 * Joshua Smith
+* Arjun R
