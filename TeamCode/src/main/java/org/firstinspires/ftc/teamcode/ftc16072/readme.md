@@ -7,4 +7,5 @@ The following members have successfully added their name:
 * Preeti Thirukonda
 * Joshua Smith
 * Arjun R
-* Teja Sule 
+* Teja Sule
+* Nikhil Vemuri
