@@ -10,3 +10,4 @@ The following members have successfully added their name:
 * Teja Sule
 * Nikhil Vemuri
 * Izaak Kreykes
+* Chirag Sreedhara
