@@ -11,3 +11,4 @@ The following members have successfully added their name:
 * Nikhil Vemuri
 * Izaak Kreykes
 * Chirag Sreedhara
+* Keerthana Thirukonda
